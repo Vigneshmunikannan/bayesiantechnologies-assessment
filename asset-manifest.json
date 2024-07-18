@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/bayesiantechnologies-assessment/static/css/main.ce7533e0.css",
+    "main.js": "/bayesiantechnologies-assessment/static/js/main.312b8302.js",
+    "static/js/453.4524c0f9.chunk.js": "/bayesiantechnologies-assessment/static/js/453.4524c0f9.chunk.js",
+    "static/media/logo.jpg": "/bayesiantechnologies-assessment/static/media/logo.cc3e43177dd33f184615.jpg",
+    "index.html": "/bayesiantechnologies-assessment/index.html",
+    "main.ce7533e0.css.map": "/bayesiantechnologies-assessment/static/css/main.ce7533e0.css.map",
+    "main.312b8302.js.map": "/bayesiantechnologies-assessment/static/js/main.312b8302.js.map",
+    "453.4524c0f9.chunk.js.map": "/bayesiantechnologies-assessment/static/js/453.4524c0f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce7533e0.css",
+    "static/js/main.312b8302.js"
+  ]
+}
